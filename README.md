@@ -8,8 +8,11 @@
 <br>
 
 ### Convolutional Neural Network (a.k.a Backbone)
-- [VGG]()
-- [ResNet]()
+- [VGG]() : Deeper Network
+- [Inception]() : Network in Network
+- [ResNet]() : Skip Connection (Shortcut)
+- [Xception]() : Depthwise-Seperable Convolution
+- [MobileNet]()
 
 ### Object Detection
 - [YOLO v1]()
